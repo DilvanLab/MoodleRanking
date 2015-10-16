@@ -1,0 +1,17 @@
+.badge_image {
+    height: 30px;
+    width: 30px;
+}
+
+.level_conf_table {
+    width: 100%;
+}
+
+.level_field_cell {
+    display: inline-block;
+}
+
+.mform .fitem .fitemtitle {
+    width: 30% !important;
+    padding-right: 10px;
+}
